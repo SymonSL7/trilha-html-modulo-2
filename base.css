@@ -19,6 +19,12 @@ table tbody tr:nth-child(even) {
     background-color: beige;
 }
 
+form {
+    border: solid 1px black;
+    padding: 20px;
+    margin-top: 5px;
+}
+
 .wrapper {
     width: 1200px;
     display: flex;
